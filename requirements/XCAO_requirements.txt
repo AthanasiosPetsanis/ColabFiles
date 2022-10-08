@@ -1,2 +1,2 @@
 glfw==2.5.3
-mujoco-py==2.1.2.14
+mujoco-py<2.2,>=2.1
